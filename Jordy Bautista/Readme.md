@@ -3,13 +3,17 @@
 **Septimo Semestre** \
  _Carnet: 1000046277_
  
- Datos personales:
- 1. Vivo con mis padres 
- 2. Soy colombiana 
- 3. Tengo una hermana 
- 4. Tengo 20 años 
+ Actividades mas relevantes para mi ordenadas de mayor a menor:
+ 1. Montar en cicla
+ 2. Hacer calistenia
+ 3. Tocar Guitarra
+ 4. Jugar videojuegos 
  
  Sobre mi: 
+ - Tengo 20 años
+ - Vivo en Bogotá
+ - Estudié en vários colegios
+ - 
  - Jugar videojuegos
  - Salir con amigos 
  - Cocinar
