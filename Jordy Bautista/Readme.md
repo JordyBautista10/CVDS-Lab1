@@ -16,6 +16,12 @@
  3. Tocar Guitarra
  4. Jugar videojuegos 
 
+#### Pruebas de codigo
+Las siguientes fotos son la validacion de que se completo todo el curso de Git disponible en (https://learngitbranching.js.org/), \
+dentro de este curso se aprendio el uso de git tando de forma local como remota, manera en como la pagina eseña es a través de \
+explicaciones detalladas por texto y ejemplos didacticos que representan los commits como bolitas y dependiendo la rama se \
+identifica con un color distinto.
+
 ![image](https://user-images.githubusercontent.com/123812969/216504161-3f5e0c10-5c29-4483-8eab-648cadce15d0.png)
 
 ![image](https://user-images.githubusercontent.com/123812969/216504213-f9c4c70b-3ac3-496c-b19b-faf5a0ac046f.png)
