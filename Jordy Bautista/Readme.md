@@ -14,11 +14,6 @@
  - Vivo en Bogotá
  - Estudié en vários colegios
  - 
- - Jugar videojuegos
- - Salir con amigos 
- - Cocinar
- - Bailar
- - Aprender nuevas cosas
 
 ![image](https://user-images.githubusercontent.com/123812969/216504161-3f5e0c10-5c29-4483-8eab-648cadce15d0.png)
 
