@@ -7,7 +7,9 @@
  - Tengo 20 años
  - Vivo en Bogotá
  - Estudié en vários colegios
- - = misuc
+ - Estoy aprendiendo frances
+
+
  Actividades mas relevantes para mi, ordenadas de mayor a menor:
  1. Montar en cicla
  2. Hacer calistenia
