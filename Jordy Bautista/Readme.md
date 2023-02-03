@@ -3,17 +3,16 @@
 **Septimo Semestre** \
  _Carnet: 1000046277_
  
- Actividades mas relevantes para mi ordenadas de mayor a menor:
+  Sobre mi: 
+ - Tengo 20 años
+ - Vivo en Bogotá
+ - Estudié en vários colegios
+ - = misuc
+ Actividades mas relevantes para mi, ordenadas de mayor a menor:
  1. Montar en cicla
  2. Hacer calistenia
  3. Tocar Guitarra
  4. Jugar videojuegos 
- 
- Sobre mi: 
- - Tengo 20 años
- - Vivo en Bogotá
- - Estudié en vários colegios
- - 
 
 ![image](https://user-images.githubusercontent.com/123812969/216504161-3f5e0c10-5c29-4483-8eab-648cadce15d0.png)
 
